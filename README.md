@@ -1,5 +1,5 @@
 UEFA Discord Bot <br>
-Provides updates on the 2023-2024 UEFA League using discord slash commands
+Introducing the UEFA Discord Bot, your companion for staying updated on the 2023-2024 UEFA League, right within your Discord server. With seamless integration and intuitive slash commands, this bot brings the excitement of live matches, upcoming fixtures, and detailed match events directly to your fingertips.
 
 Commands <br>
 - /live:ends the live score of an ongoing match.
@@ -7,10 +7,9 @@ Commands <br>
 - /matchevents: Displays the Events of the latest Match.
 
 NOTE: <br>
-API obtained from: https://live-score-api.com <br>
-API_KEY and API_SECRET is unique to each user and expires after 15 days. <br>
-Hence sign in and renewal is required to obtain another key. <br>
-If key is expired, its working implementation can be seen in the video uploaded (see below)  <br>
+The API used was obtained from: https://live-score-api.com <br>
+The API_KEY and API_SECRET is unique to each user and expires after 15 days. Hence sign in and renewal is required to obtain another key. <br>
+If key is expired, it's working implementation can be seen in the video uploaded (see below)  <br>
 
 Code in Action: <br>
 
