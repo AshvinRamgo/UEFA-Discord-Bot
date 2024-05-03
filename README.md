@@ -1,5 +1,5 @@
 UEFA Discord Bot <br>
-Introducing the UEFA Discord Bot, your companion for staying updated on the 2023-2024 UEFA League, right within your Discord server. With seamless integration and intuitive slash commands, this bot brings the excitement of live matches, upcoming fixtures, and detailed match events directly to your fingertips.
+Introducing the UEFA Discord Bot programmed in JavaScript using the Discord.js library, your companion for staying updated on the 2023-2024 UEFA League, right within your Discord server. With seamless integration and intuitive slash commands, this bot brings the excitement of live matches, upcoming fixtures, and detailed match events directly to your fingertips. Once the bot is running and connected to your Discord server, you can use the following commands:
 
 Commands <br>
 - /live:ends the live score of an ongoing match.
