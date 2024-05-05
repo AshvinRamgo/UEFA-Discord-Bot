@@ -4,7 +4,7 @@ const { REST, Routes, DataResolver } = require("discord.js");
 const commands = [
   {
     name: "live",
-    description: "Sends the live score of an ongoing EPL match.",
+    description: "Sends the live score of an ongoing UEFA match.",
   },
   {
     name: "fixtures",
